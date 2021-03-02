@@ -1,0 +1,17 @@
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\bin\Debug\AntiAlexa.exe.config
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\bin\Debug\AntiAlexa.exe
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\bin\Debug\AntiAlexa.pdb
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\obj\Debug\AntiAlexa.csprojAssemblyReference.cache
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\obj\Debug\AntiAlexa.Properties.Resources.resources
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\obj\Debug\AntiAlexa.csproj.GenerateResource.cache
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\obj\Debug\AntiAlexa.csproj.CoreCompileInputs.cache
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\obj\Debug\AntiAlexa.exe
+D:\Software\MyPrograms\Prog. in C#\AntiAlexa\AntiAlexa\obj\Debug\AntiAlexa.pdb
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\obj\Debug\AntiAlexa.csprojAssemblyReference.cache
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\obj\Debug\AntiAlexa.Properties.Resources.resources
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\obj\Debug\AntiAlexa.csproj.GenerateResource.cache
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\obj\Debug\AntiAlexa.csproj.CoreCompileInputs.cache
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\obj\Debug\AntiAlexa.exe
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\obj\Debug\AntiAlexa.pdb
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\bin\Debug\AntiAlexa.exe.config
+D:\Software\MyPrograms\Prog. in C#\AntiAlexaV2\AntiAlexa\bin\Debug\AntiAlexa.exe
